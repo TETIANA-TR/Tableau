@@ -10,7 +10,7 @@ Average Revenue Per Paid Users
 2. After that, I created the following charts (or tables):
 A chart that allows you to visually compare the total Revenue for each location + product combination.
 A chart that allows you to compare the total Revenue for each location.
-A chart that shows the total Revenue by month broken down by product. The breakdown should be color-coded.
+A chart that shows the total Revenue by month broken down by product. The breakdown is color-coded.
 Chart showing ARPPU and Paid Users Count by month.
 Built a box plot to compare transaction amounts.
 Created a chart showing how each location's share of Revenue changes over time.
