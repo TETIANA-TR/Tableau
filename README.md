@@ -1,5 +1,5 @@
-# TABLEU
-getting to know TABLEU
+# Tableau
+getting to know TABLEAU
 https://public.tableau.com/views/Book4_17467082423910/revenue_product?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Task (step by step):
 In Tableau Public, I created a workbook (new visualization)
