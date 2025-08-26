@@ -31,7 +31,7 @@ The goal is to demonstrate data analytics, data visualization, and dashboard des
   - Values = revenue for that cohort period
   - Gradient formatting to highlight relative changes
 
-📷 **Screenshot:** ![Project 1 Screenshot](https://private-user-images.githubusercontent.com/210863589/481962322-00f58ee6-178b-46fd-8113-6c4a90f5e6a8.PNG)
+📷 **Screenshot:** ![Project 1 Screenshot](https://private-user-images.githubusercontent.com/210863589/481962322-00f58ee6-178b-46fd-8113-6c4a90f5e6a8.PNG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYxOTM3NTIsIm5iZiI6MTc1NjE5MzQ1MiwicGF0aCI6Ii8yMTA4NjM1ODkvNDgxOTYyMzIyLTAwZjU4ZWU2LTE3OGItNDZmZC04MTEzLTZjNGE5MGY1ZTZhOC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNlQwNzMwNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDNjYWEzYjRiMjQ3MmEzOTVkMTE0YjU4Yjk5OWNjN2IxN2E2YzIyNGU5OWMyMTM4MjYxNTE3ZDdmNjI4ZjBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1tCOtCfsY_8v1bQ1OkMDr7mzwUEYtK2N9Mf7Q5e1MGU)
 
 ---
 
@@ -50,7 +50,7 @@ Based on the same dataset, I expanded the analysis and created a **detailed Tabl
 - Comparative analysis of sales across different stores  
 - Interactive filters for flexible exploration  
 
-📷 **Screenshot:** ![Project 2 Screenshot](https://private-user-images.githubusercontent.com/210863589/481631580-d52f63a6-a0a5-4955-be6b-759f053a68c7.PNG)
+📷 **Screenshot:** ![Project 2 Screenshot](https://private-user-images.githubusercontent.com/210863589/481631580-d52f63a6-a0a5-4955-be6b-759f053a68c7.PNG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYxOTIzOTksIm5iZiI6MTc1NjE5MjA5OSwicGF0aCI6Ii8yMTA4NjM1ODkvNDgxNjMxNTgwLWQ1MmY2M2E2LWEwYTUtNDk1NS1iZTZiLTc1OWYwNTNhNjhjNy5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNlQwNzA4MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MGFkZjNkZDA3Zjg1MTMwOTVhYTkxMWY3MWE3ZDE1MDk0ZjNjYzNlOWQxZDI4MzgzNWFiNWNkYTYxZDk3YmQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eQRerds1m4N5hwDrcgHNiZGnlrvXbE79X5KTnPgIx0Y)
 
 ---
 
